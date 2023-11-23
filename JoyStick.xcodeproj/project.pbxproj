@@ -13,6 +13,9 @@
 		238453F62B0FA9B60027BC28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 238453F42B0FA9B60027BC28 /* Main.storyboard */; };
 		238453F82B0FA9B80027BC28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 238453F72B0FA9B80027BC28 /* Assets.xcassets */; };
 		238453FB2B0FA9B80027BC28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 238453F92B0FA9B80027BC28 /* LaunchScreen.storyboard */; };
+		238454042B0FAB240027BC28 /* pad.webp in Resources */ = {isa = PBXBuildFile; fileRef = 238454032B0FAB240027BC28 /* pad.webp */; };
+		238454062B0FAE310027BC28 /* pad2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 238454052B0FAE310027BC28 /* pad2.jpeg */; };
+		2384540A2B0FB11C0027BC28 /* reddot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 238454092B0FB11C0027BC28 /* reddot2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		238453F72B0FA9B80027BC28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		238453FA2B0FA9B80027BC28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		238453FC2B0FA9B80027BC28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		238454032B0FAB240027BC28 /* pad.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = pad.webp; sourceTree = "<group>"; };
+		238454052B0FAE310027BC28 /* pad2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pad2.jpeg; sourceTree = "<group>"; };
+		238454092B0FB11C0027BC28 /* reddot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reddot2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				238453F72B0FA9B80027BC28 /* Assets.xcassets */,
 				238453F92B0FA9B80027BC28 /* LaunchScreen.storyboard */,
 				238453FC2B0FA9B80027BC28 /* Info.plist */,
+				238454032B0FAB240027BC28 /* pad.webp */,
+				238454052B0FAE310027BC28 /* pad2.jpeg */,
+				238454092B0FB11C0027BC28 /* reddot2.png */,
 			);
 			path = JoyStick;
 			sourceTree = "<group>";
@@ -126,7 +135,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				238453FB2B0FA9B80027BC28 /* LaunchScreen.storyboard in Resources */,
+				238454042B0FAB240027BC28 /* pad.webp in Resources */,
+				2384540A2B0FB11C0027BC28 /* reddot2.png in Resources */,
 				238453F82B0FA9B80027BC28 /* Assets.xcassets in Resources */,
+				238454062B0FAE310027BC28 /* pad2.jpeg in Resources */,
 				238453F62B0FA9B60027BC28 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
